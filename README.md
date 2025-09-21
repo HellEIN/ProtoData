@@ -57,9 +57,9 @@ protodatatest/
   - **Clustering**: K-Means, DBSCAN, Hierarchical
   - **Dimensionality Reduction**: PCA, t-SNE
 - **Model Evaluation**: Comprehensive metrics and validation
-- **Hyperparameter Tuning**: Grid search and random search optimization
-- **Feature Engineering**: Automatic feature selection and transformation
-- **Model Comparison**: Side-by-side performance analysis
+
+
+
 
 ### 🎨 Professional UI/UX
 - **Modern Design**: Clean, intuitive interface with professional styling
