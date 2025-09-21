@@ -45,7 +45,6 @@ protodatatest/
 
 ### 📈 Data Exploration & Analysis
 - **Multi-format Data Support**: CSV, Excel, JSON, Parquet, and more
-- **Interactive Data Tables**: Sortable, filterable, and paginated views
 - **Statistical Summaries**: Comprehensive descriptive statistics
 - **Data Quality Assessment**: Missing values, data types, and distribution analysis
 - **Real-time Data Profiling**: Automatic data quality reports
