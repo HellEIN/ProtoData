@@ -144,7 +144,7 @@ python app.py
 - **Visualization**: Ensure data has sufficient samples for meaningful plots
 
 ### Performance Considerations
-- Large datasets (>100MB) may experience slower loading times
+- Large datasets (>200MB) may experience slower loading times
 - Complex models with many features may require additional processing time
 - Browser memory limitations may affect very large visualizations
 
