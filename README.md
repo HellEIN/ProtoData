@@ -40,8 +40,8 @@ pip install taipy pandas numpy scikit-learn plotly
 ### Installation & Running
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git https://github.com/HellEIN/ProtoData.git
+cd https://github.com/HellEIN/ProtoData.git
 ```
 
 2. Run the application:
